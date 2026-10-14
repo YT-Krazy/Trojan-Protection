@@ -43,24 +43,8 @@ The main danger of a Trojan is that it tricks the user into trusting it. The saf
 This example is a demo only. It is intentionally harmless and does not attack the device. It is included to show how a Trojan-style file can look deceptive while still being safe for learning purposes.
 
 ```python
-# Demo only - harmless example for educational awareness
-# This is not a real malware payload and does nothing harmful.
-
-import time
-
-
-def trojan_demo():
-    print("Trojan-style demo started")
-    print("This file is only for awareness and safety training.")
-    print("No files were modified.")
-    print("No network activity was performed.")
-    print("No malicious actions were executed.")
-    time.sleep(1)
-    print("Demo complete: device remains safe.")
-
-
-if __name__ == "__main__":
-    trojan_demo()
+# This is  Demo Trojan Code
+# Trojan Code will Be Here Soon
 ```
 
 This is a harmless example meant to illustrate how a Trojan might appear deceptive, while clearly showing it does nothing malicious.

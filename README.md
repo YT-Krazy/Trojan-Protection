@@ -42,11 +42,11 @@ The main danger of a Trojan is that it tricks the user into trusting it. The saf
 
 This example is a demo only. It is intentionally harmless and does not attack the device. It is included to show how a Trojan-style file can look deceptive while still being safe for learning purposes.
 
-```python
+```Python
 # This is  Demo Trojan Code
 # Trojan Code will Be Here Soon
 ```
-```C++ Anti-Trojan-Application-Download
+```Python Anti-Trojan-Application-Download
 # Protection Code Is Coming Here
 # Have Fun With The Most Unpredictable Trojan Protection Hope you Enjoy It.
 ```

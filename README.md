@@ -47,7 +47,8 @@ This example is a demo only. It is intentionally harmless and does not attack th
 # Trojan Code will Be Here Soon
 ```
 ```C++ Anti-Trojan-Application-Download
-Protection Code Is Coming Here
+# Protection Code Is Coming Here
+# Have Fun With The Most Unpredictable Trojan Protection Hope you Enjoy It.
 ```
 This is a harmless example meant to illustrate how a Trojan might appear deceptive, while clearly showing it does nothing malicious.
 
